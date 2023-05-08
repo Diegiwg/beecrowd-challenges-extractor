@@ -5,7 +5,9 @@
 
 ## Descrição
 
-Script de raspagem de dados, do desafios do site Beecrowd, em português, salvando em HTML e convertendo para TXT.
+Script de raspagem de dados, dos desafios do site Beecrowd, em português, salvando em HTML e convertendo para TXT.
+
+Foi feito a pedido de um amigo, com deficiencia visual, que tinha problemas ao acessar o site original.
 
 ## Como usar
 
