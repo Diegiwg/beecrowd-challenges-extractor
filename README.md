@@ -1,6 +1,7 @@
 # Beecrowd Challenges Extractor
 
 ## Demonstração
+<img src="https://user-images.githubusercontent.com/15692310/236731421-4d67fce3-35f0-4a42-9a68-0b6a7ce08a86.gif" width="800"></img>
 
 ## Descrição
 
