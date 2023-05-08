@@ -1,3 +1,4 @@
 # Beecrowd Challenges Extractor
 
-> Script to download the challenges from the website "beecrowd" in Portuguese, saving the html and converting it to txt.
+Script de raspagem de dados, do desafios do site Beecrowd, em português, salvando em HTML e convertendo para TXT.
+
